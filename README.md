@@ -1,6 +1,8 @@
 # generator-alfresco-enterprise-docker
 > Alfresco Enterprise Docker Installer
 
+>> This repository has been moved to https://github.com/AlfrescoLabs/alfresco-enterprise-docker
+
 ## DISCLAIMER
 
 **IMPORTANT** This project is not supported by Alfresco in any way. Despite deployments using Docker Compose are considered a valid approach for ACS deployment (Community and Enterprise), this `alfresco-enterprise-docker` tool is **not** the official Alfresco recommendation. Please, check [https://github.com/Alfresco/acs-deployment/tree/master/docker-compose](https://github.com/Alfresco/acs-deployment/tree/master/docker-compose) in order to understand official recommendations from Alfresco.
